@@ -1,6 +1,5 @@
-
 # 👋 Hi, I’m Swapnil Alaspure Patil
-- 👀 I’m interested in Machine Learning, NLP, WebScraping, Tableau and PowerBI.
+- 👀 I’m interested in Data Analysis, Machine Learning, NLP, Web-Scraping, Tableau and PowerBI.
 - 🌱 I’m currently learning Python, ML, AI and NLP.
 - 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 How to reach me patilswapnil08421@gmail.com.
