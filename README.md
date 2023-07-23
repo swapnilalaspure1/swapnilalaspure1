@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 
 # 👋 Hi, I’m Swapnil Alaspure Patil
 - 👀 I’m interested in Machine Learning, NLP, WebScraping, Tableau and PowerBI.
