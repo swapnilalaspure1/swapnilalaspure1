@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Swapnil Alaspure Patil</h1>
-<h3 align="center">A Passionate Data Science Student from India</h3>
-
 <img align="right" alt="coding" width="600" src="https://github.com/swapnilalaspure1/swapnilalaspure1/assets/134439246/a1e48ad8-4b52-4204-bdfc-dcacbedb3aa6">
+
+<h1 align="center">Hi 👋, I'm Swapnil Alaspure Patil</h1>
+
+<h3 align="center">A Passionate Data Science Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilalaspure1&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilalaspure1" /> </p>
 
