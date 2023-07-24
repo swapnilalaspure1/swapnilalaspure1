@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Swapnil Alaspure Patil</h1>
 <h3 align="center">A Passionate Data Science Student from India</h3>
 
-<img align="right" alt= "coding" width="400" src="https://cdn.dribbble.com/users/2010843/screenshots/4451185/twitter_analysis.gif">
+<img align="right" alt="coding" width="600" src="https://github.com/swapnilalaspure1/swapnilalaspure1/assets/134439246/a1e48ad8-4b52-4204-bdfc-dcacbedb3aa6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilalaspure1&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilalaspure1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **PowerBI,Tableau,Machine Learning,NLP,AI etc.**
+- 🌱 I’m currently learning **PowerBI, Tableau, Machine Learning, NLP, AI etc.**
 
 - 👯 I’m looking to collaborate on **Machine Learning & Data Analysis**
 
