@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil Alaspure Patil</h1>
 <h3 align="center">A Passionate Data Science Student from India</h3>
-
-<img="right" alt="coding"width="400"src="https://media4.giphy.com/media/JrXas5ecb4FkwbFpIE/200w.webp?cid=ecf05e471r55jljkshnammefq6cmcbjb55q8885wlzg3q6it&ep=v1_gifs_search&rid=200w.webp&ct=g">
-
+<img align="right"alt="coding"width="400"src="![image](https://github.com/swapnilalaspure1/swapnilalaspure1/assets/134439246/13fbc1b4-a0e0-42f7-ad95-b98f186fed27)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilalaspure1&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilalaspure1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
