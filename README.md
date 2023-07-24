@@ -1,11 +1,8 @@
-<img align="right" alt="coding" width="600" src="https://github.com/swapnilalaspure1/swapnilalaspure1/assets/134439246/a1e48ad8-4b52-4204-bdfc-dcacbedb3aa6">
-
 <h1 align="center">Hi 👋, I'm Swapnil Alaspure Patil</h1>
-
 <h3 align="center">A Passionate Data Science Student from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/swapnilalaspure1/swapnilalaspure1/assets/134439246/a1e48ad8-4b52-4204-bdfc-dcacbedb3aa6">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilalaspure1&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilalaspure1" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **PowerBI, Tableau, Machine Learning, NLP, AI etc.**
@@ -17,7 +14,6 @@
 - 📫 How to reach me **patilswapnil08421@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/swapnil-alaspure007](www.linkedin.com/in/swapnil-alaspure007)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/swapnil-alaspure007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil-alaspure007/" height="30" width="40" /></a>
