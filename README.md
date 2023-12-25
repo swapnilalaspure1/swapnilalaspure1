@@ -38,11 +38,11 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilalaspure1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=swapnilalaspure1&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilalaspure1" alt="GitHub Streak" />
 </p>
