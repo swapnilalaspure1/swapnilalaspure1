@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilalaspure1&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilalaspure1" /> </p>
 
 
-- 🌱 I’m currently learning **PowerBI, Tableau, Machine Learning, NLP, and AI**
+- 🌱 I’m currently learning **PowerBI, Machine Learning, NLP, and AI**
 
 - 👯 I’m looking to collaborate on **Machine Learning & Data Analysis projects**
 
