@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! 👋 I'm Swapnil Alaspure Patil</h1>
-<h3 align="center">Passionate Data Science \ Analytics Student from India</h3>
+<h1 align="center">Hi there! 👋 I'm Swapnil Alaspure </h1>
+<h3 align="center">Data Analytics Student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/swapnilalaspure1/swapnilalaspure1/assets/134439246/6b0713e6-3d0f-4ae9-ba7d-43d856a88bb8">
 
